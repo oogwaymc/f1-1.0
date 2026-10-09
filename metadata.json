@@ -1,0 +1,6 @@
+{
+  "name": "Apex Formula 24 - 3D F1 Racing Championship",
+  "description": "High-fidelity 3D Formula 1 racing simulation featuring driver #24, realistic aero dynamics, AI opponents, ghost lap replays, career progression, car customization, and telemetry analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
